@@ -4,11 +4,6 @@
 # In[1]:
 
 
-#Course: MSIS 615 Business Programming
-#Professor: Wei Zhang
-#ProjectTopic: TripAdvisor Airline Review Analysis 
-#Group members: Aniket Ghole, Rashmi Bajwan, Utsavi Waingankar
-
 get_ipython().system('pip install selenium')
 get_ipython().system('pip install webdriver-manager')
 
